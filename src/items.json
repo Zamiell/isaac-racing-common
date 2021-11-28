@@ -5038,20 +5038,20 @@
       "text": "Gives a random rune",
       "introduced_in": "Repentance"
    },
-   "733": {
+   "737": {
       "name": "Sawblade",
       "shown": true,
       "text": "Orbital (10 dmg / tick)",
       "introduced_in": "Racing+"
    },
-   "734": {
+   "738": {
       "name": "13 Luck",
       "text": "",
       "shown": true,
       "luck": "13",
       "introduced_in": "Racing+"
    },
-   "735": {
+   "739": {
       "name": "15 Luck",
       "text": "",
       "shown": true,
