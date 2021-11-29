@@ -5039,23 +5039,23 @@
       "introduced_in": "Repentance"
    },
    "737": {
-      "name": "Sawblade",
-      "shown": true,
-      "text": "Orbital (10 dmg / tick)",
-      "introduced_in": "Racing+"
-   },
-   "738": {
       "name": "13 Luck",
       "text": "",
       "shown": true,
       "luck": "13",
       "introduced_in": "Racing+"
    },
-   "739": {
+   "738": {
       "name": "15 Luck",
       "text": "",
       "shown": true,
       "luck": "15",
+      "introduced_in": "Racing+"
+   },
+   "739": {
+      "name": "Sawblade",
+      "shown": true,
+      "text": "Orbital (10 dmg / tick)",
       "introduced_in": "Racing+"
    },
    "2001": {
