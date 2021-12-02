@@ -1,7 +1,6 @@
 [
   [],
 
-  [{ "id": 245, "name": "20/20" }],
   [{ "id": 224, "name": "Cricket's Body" }],
   [{ "id": 4,   "name": "Cricket's Head" }],
   [{ "id": 373, "name": "Dead Eye" }],
@@ -17,9 +16,7 @@
   [{ "id": 678, "name": "C Section", "spacing": true }],
 
   [{ "id": 118, "name": "Brimstone" }],
-  [{ "id": 360, "name": "Incubus" }],
-  [{ "id": 399, "name": "Maw of the Void" }],
-  [{ "id": 698, "name": "Twisted Pair", "spacing": true }],
+  [{ "id": 399, "name": "Maw of the Void", "spacing": true }],
 
   [{ "id": 415, "name": "Crown of Light" }],
   [{ "id": 182, "name": "Sacred Heart" }],
@@ -27,6 +24,11 @@
   [{ "id": 643, "name": "Revelation", "spacing": true }],
 
   [{ "id": 168, "name": "Epic Fetus", "spacing": true }],
+
+  [{ "id": 1003, "name": "Sawblade", "spacing": true }],
+
+  [{ "id": 245, "name": "20/20" },
+   { "id": 2,   "name": "The Inner Eye" }],
 
   [{ "id": 69,  "name": "Chocolate Milk" },
    { "id": 50,  "name": "Steven" }],
@@ -37,11 +39,17 @@
   [{ "id": 531, "name": "Haemolacria" },
    { "id": 1,   "name": "The Sad Onion" }],
 
+  [{ "id": 360, "name": "Incubus" },
+   { "id": 360, "name": "Incubus" }],
+
   [{ "id": 229, "name": "Monstro's Lung" },
    { "id": 1,   "name": "The Sad Onion" }],
 
   [{ "id": 68,  "name": "Technology" },
    { "id": 132, "name": "A Lump of Coal" }],
+
+  [{ "id": 698, "name": "Twisted Pair" },
+   { "id": 698, "name": "Twisted Pair" }],
 
   [{ "id": 544, "name": "Pointy Rib" },
    { "id": 310, "name": "Eve's Mascara" }],
@@ -57,7 +65,5 @@
   [{ "id": 57,  "name": "Distant Admiration" },
    { "id": 364, "name": "Friend Zone" },
    { "id": 128, "name": "Forever Alone" },
-   { "id": 247, "name": "BFFS!" }],
-
-  [{ "id": 1003, "name": "Sawblade", "spacing": true }]
+   { "id": 247, "name": "BFFS!" }]
 ]
