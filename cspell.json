@@ -1,5 +1,10 @@
 {
   "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
   "version": "0.2",
+  "files": ["**"],
+  "enableFiletypes": ["*"],
+  "enableGlobDot": true,
+  "useGitignore": true,
+  "ignorePaths": [".git/**", ".yarn/**", "items.json"],
   "words": ["BFFS", "Gello", "Haemolacria", "Monstro's", "Sawblade", "Zamiell"]
 }
