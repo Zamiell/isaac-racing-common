@@ -6,5 +6,14 @@
   "enableGlobDot": true,
   "useGitignore": true,
   "ignorePaths": [".git/**", ".yarn/**", "items.json"],
-  "words": ["BFFS", "Gello", "Haemolacria", "Monstro's", "Sawblade", "Zamiell"]
+  "words": [
+    "BFFS",
+    "Gello",
+    "Haemolacria",
+    "isaacscript",
+    "Monstro's",
+    "packagejson",
+    "Sawblade",
+    "Zamiell"
+  ]
 }
