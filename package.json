@@ -16,7 +16,6 @@
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "devDependencies": {
-    "isaacscript-lint": "^5.11.0",
-    "typescript": "^5.2.2"
+    "isaacscript-lint": "^5.11.0"
   }
 }
