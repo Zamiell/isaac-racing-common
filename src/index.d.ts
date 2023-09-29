@@ -1,3 +1,9 @@
-export * as BUILDS from "./builds.json";
-export * as ITEMS from "./items.json";
-export * as CHARACTERS from "./characters.json";
+import * as BUILDS from "./builds.json";
+import * as CHARACTERS from "./characters.json";
+import * as ITEMS from "./items.json";
+
+export = {
+  BUILDS,
+  ITEMS,
+  CHARACTERS,
+};

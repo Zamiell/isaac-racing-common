@@ -1,3 +1,5 @@
-export * as BUILDS from "./builds.json";
-export * as ITEMS from "./items.json";
-export * as CHARACTERS from "./characters.json";
+module.exports = {
+  BUILDS: require("./builds.json"),
+  ITEMS: require("./items.json"),
+  CHARACTERS: require("./characters.json"),
+};
