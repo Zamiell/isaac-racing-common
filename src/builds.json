@@ -188,7 +188,7 @@
   },
 
   {
-    "name": "Sacred Heart",
+    "name": "Revelation",
     "category": "Angel Room",
     "collectibles": [{ "id": 643, "name": "Revelation" }],
     "bannedCharacters": []
