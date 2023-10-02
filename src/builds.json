@@ -400,21 +400,21 @@
   },
 
   {
-    "name": "Technology + A Lump of Coal",
-    "category": "Builds",
-    "collectibles": [
-      { "id": 68, "name": "Technology" },
-      { "id": 132, "name": "A Lump of Coal" }
-    ],
-    "bannedCharacters": []
-  },
-
-  {
     "name": "Tech.5 + Jesus Juice",
     "category": "Builds",
     "collectibles": [
       { "id": 244, "name": "Tech.5" },
       { "id": 197, "name": "Jesus Juice" }
+    ],
+    "bannedCharacters": []
+  },
+
+  {
+    "name": "Technology + A Lump of Coal",
+    "category": "Builds",
+    "collectibles": [
+      { "id": 68, "name": "Technology" },
+      { "id": 132, "name": "A Lump of Coal" }
     ],
     "bannedCharacters": []
   },
